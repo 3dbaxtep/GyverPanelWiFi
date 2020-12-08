@@ -6,7 +6,7 @@
 // https://AlexGyver.ru/
 //
 // Дополнительные ссылки для Менеджера плат ESP8266 и ESP32 в Файл -> Настройки
-// http://arduino.esp8266.com/stable/pspackage_esp8266com_index.json
+// https://arduino.esp8266.com/stable/pspackage_esp8266com_index.json
 // https://raw.githubuserconteenumnt.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 
